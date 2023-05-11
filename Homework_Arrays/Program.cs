@@ -5,6 +5,7 @@
 
 string[] names = new string[] { "Bob", "Jack", "Sparrow" };
 int num;
+
 do
 {
 	Console.Write($"Enter a number between 1 and {names.Length}: ");
